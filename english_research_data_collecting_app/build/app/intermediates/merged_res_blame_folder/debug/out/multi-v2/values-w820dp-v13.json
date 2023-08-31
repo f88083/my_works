@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\f8808\\Desktop\\COMP390FYP\\english_research_data_collecting_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\f8808\\.gradle\\caches\\transforms-2\\files-2.1\\8fc3d8cb885bc278aeb30517c60bbd3b\\jetified-flutter_sound_core-8.4.2\\res\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

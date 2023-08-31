@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:1:1-46:12
+MERGED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:1:1-46:12
+MERGED from [:audioplayers] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_sound_lite] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\flutter_sound_lite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\4aa7d3b1199075332be38a770883fe79\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\d6d4b8bb6099f7135fed07957ae530c5\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\301c273043cfdcf9903070baceef2e5c\media-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\c9cdaf4182134f09911a36f189490385\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\4f7f7f3a3f368bc6825ff4db53c81a8e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\1581d94240a89695ab1ef29acea08d4f\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8911a3ecd6aa12e0e84bb43db8e5d4d9\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\c51007774f4fd6d14ba4adbca0679a8a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8add393c18bb8b0f40364f4f0122baed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\5e4810477365094dd32b38f89aaacad5\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\532ccf14bb4e1d9f013b5b40be860ef3\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\f8347eebbb40a7a16c766592439b20a2\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\c25433a590f7a31e3ed68edc7c15d87d\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\9f9eeb4a2ce6b7f0e04914e9e53d43f8\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\51ee241fc071c840c1958154b88ad1d9\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\af8dbfafff109cbe2626d29a640ba8ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\bf224960c448cf8df3cc05170c7e1480\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\92e6b919cde2985708bccc9bc7166477\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\e2012c2cdbc12a8f160bd51545cf11d1\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\175f4d36784449670c627698e9607853\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\fb92da9c2dd107fc56f3a9f27e43e30b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\e8947babe14030ab36b6f95be15600ef\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:2:5-63
+		INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:1:1-46:12
+		INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:1:1-46:12
+		INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:3:5-80
+	android:name
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:3:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from [:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:4:22-77
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:5:22-79
+application
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:7:4-45:19
+MERGED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:15:5-34:19
+MERGED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:15:5-34:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\bf224960c448cf8df3cc05170c7e1480\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\bf224960c448cf8df3cc05170c7e1480\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:10:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:8:9-61
+	android:icon
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:9:9-43
+activity#com.example.english_research_data_collecting_app.MainActivity
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:11:9-39:20
+	android:launchMode
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:13:13-43
+	android:hardwareAccelerated
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:windowSoftInputMode
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:17:13-55
+	android:configChanges
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:15:13-163
+	android:theme
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:14:13-47
+	android:name
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:12:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:22:13-25:17
+	android:resource
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:24:15-52
+	android:name
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:23:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:31:13-34:17
+	android:resource
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:33:15-61
+	android:name
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:32:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:37:27-74
+meta-data#flutterEmbedding
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:42:9-44:33
+	android:value
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:44:13-30
+	android:name
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:43:13-44
+uses-sdk
+INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:audioplayers] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [:audioplayers] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\audioplayers\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sound_lite] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\flutter_sound_lite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sound_lite] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\flutter_sound_lite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\4aa7d3b1199075332be38a770883fe79\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\4aa7d3b1199075332be38a770883fe79\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\d6d4b8bb6099f7135fed07957ae530c5\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\d6d4b8bb6099f7135fed07957ae530c5\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\301c273043cfdcf9903070baceef2e5c\media-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\301c273043cfdcf9903070baceef2e5c\media-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\c9cdaf4182134f09911a36f189490385\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\c9cdaf4182134f09911a36f189490385\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\4f7f7f3a3f368bc6825ff4db53c81a8e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\4f7f7f3a3f368bc6825ff4db53c81a8e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\1581d94240a89695ab1ef29acea08d4f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\1581d94240a89695ab1ef29acea08d4f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8911a3ecd6aa12e0e84bb43db8e5d4d9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8911a3ecd6aa12e0e84bb43db8e5d4d9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\c51007774f4fd6d14ba4adbca0679a8a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\c51007774f4fd6d14ba4adbca0679a8a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8add393c18bb8b0f40364f4f0122baed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8add393c18bb8b0f40364f4f0122baed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\5e4810477365094dd32b38f89aaacad5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\5e4810477365094dd32b38f89aaacad5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\532ccf14bb4e1d9f013b5b40be860ef3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\532ccf14bb4e1d9f013b5b40be860ef3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\f8347eebbb40a7a16c766592439b20a2\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\f8347eebbb40a7a16c766592439b20a2\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\c25433a590f7a31e3ed68edc7c15d87d\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\c25433a590f7a31e3ed68edc7c15d87d\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\9f9eeb4a2ce6b7f0e04914e9e53d43f8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\9f9eeb4a2ce6b7f0e04914e9e53d43f8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\51ee241fc071c840c1958154b88ad1d9\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\51ee241fc071c840c1958154b88ad1d9\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\af8dbfafff109cbe2626d29a640ba8ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\af8dbfafff109cbe2626d29a640ba8ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\bf224960c448cf8df3cc05170c7e1480\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\bf224960c448cf8df3cc05170c7e1480\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\92e6b919cde2985708bccc9bc7166477\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\92e6b919cde2985708bccc9bc7166477\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\e2012c2cdbc12a8f160bd51545cf11d1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\e2012c2cdbc12a8f160bd51545cf11d1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\175f4d36784449670c627698e9607853\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\175f4d36784449670c627698e9607853\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\fb92da9c2dd107fc56f3a9f27e43e30b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\fb92da9c2dd107fc56f3a9f27e43e30b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\e8947babe14030ab36b6f95be15600ef\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\e8947babe14030ab36b6f95be15600ef\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml:6:22-64
+queries
+ADDED from [:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:21-69
+data
+ADDED from [:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-44
+	android:mimeType
+		ADDED from [:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-41
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:13:22-77
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:16:9-23:20
+	android:exported
+		ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:17:13-70
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON+action:name:android.media.AUDIO_BECOMING_NOISY
+ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:20:25-74
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:21:25-74
+service#com.dooboolab.TauEngine.FlautoBackgroundAudioService
+ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:25:9-33:19
+	android:exported
+		ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:26:13-80
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON+action:name:android.media.AUDIO_BECOMING_NOISY+action:name:android.media.browse.FlautoMediaBrowserService
+ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:28:13-32:29
+action#android.media.browse.FlautoMediaBrowserService
+ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:31:17-89
+	android:name
+		ADDED from [com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:31:25-86

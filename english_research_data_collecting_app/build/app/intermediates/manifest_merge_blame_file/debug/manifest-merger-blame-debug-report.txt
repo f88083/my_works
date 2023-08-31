@@ -1,0 +1,163 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.english_research_data_collecting_app"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+9        android:targetSdkVersion="28" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\debug\AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:3:5-80
+15-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:3:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:4:5-79
+16-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:4:22-77
+17    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+17-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:5:5-81
+17-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:5:22-79
+18
+19    <queries>
+19-->[:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
+20        <intent>
+20-->[:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:18
+21            <action android:name="android.intent.action.GET_CONTENT" />
+21-->[:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-72
+21-->[:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:21-69
+22
+23            <data android:mimeType="*/*" />
+23-->[:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-44
+23-->[:file_picker] D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-41
+24        </intent>
+25    </queries>
+26
+27    <uses-permission android:name="android.permission.BLUETOOTH" />
+27-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:11:5-68
+27-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:11:22-65
+28    <uses-permission android:name="android.permission.WAKE_LOCK" />
+28-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:12:5-68
+28-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:12:22-65
+29    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+29-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:13:5-80
+29-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:13:22-77
+30
+31    <application
+31-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:7:4-45:19
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.6.0] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_launcher"
+34-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:9:9-43
+35        android:label="english_research_data_collecting_app"
+35-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:8:9-61
+36        android:requestLegacyExternalStorage="true" >
+36-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:10:9-52
+37        <activity
+37-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:11:9-39:20
+38            android:name="com.example.english_research_data_collecting_app.MainActivity"
+38-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:12:13-41
+39            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+39-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:15:13-163
+40            android:hardwareAccelerated="true"
+40-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:16:13-47
+41            android:launchMode="singleTop"
+41-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:13:13-43
+42            android:theme="@style/LaunchTheme"
+42-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:14:13-47
+43            android:windowSoftInputMode="adjustResize" >
+43-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:17:13-55
+44
+45            <!--
+46                 Specifies an Android theme to apply to this Activity as soon as
+47                 the Android process has started. This theme is visible to the user
+48                 while the Flutter UI initializes. After that, this theme continues
+49                 to determine the Window background behind the Flutter UI.
+50            -->
+51            <meta-data
+51-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:22:13-25:17
+52                android:name="io.flutter.embedding.android.NormalTheme"
+52-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:23:15-70
+53                android:resource="@style/NormalTheme" />
+53-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:24:15-52
+54            <!--
+55                 Displays an Android View that continues showing the launch screen
+56                 Drawable until Flutter paints its first frame, then this splash
+57                 screen fades out. A splash screen is useful to avoid any visual
+58                 gap between the end of Android's launch screen and the painting of
+59                 Flutter's first frame.
+60            -->
+61            <meta-data
+61-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:31:13-34:17
+62                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+62-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:32:15-79
+63                android:resource="@drawable/launch_background" />
+63-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:33:15-61
+64
+65            <intent-filter>
+65-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:35:13-38:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:36:17-68
+66-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:36:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:37:17-76
+68-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:37:27-74
+69            </intent-filter>
+70        </activity>
+71        <!--
+72             Don't delete the meta-data below.
+73             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+74        -->
+75        <meta-data
+75-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:42:9-44:33
+76            android:name="flutterEmbedding"
+76-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:43:13-44
+77            android:value="2" />
+77-->D:\f8808\Desktop\COMP390FYP\english_research_data_collecting_app\android\app\src\main\AndroidManifest.xml:44:13-30
+78
+79        <receiver
+79-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:16:9-23:20
+80            android:name="androidx.media.session.MediaButtonReceiver"
+80-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:17:13-70
+81            android:exported="true" >
+81-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:18:13-36
+82            <intent-filter>
+82-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:19:13-22:29
+83                <action android:name="android.intent.action.MEDIA_BUTTON" />
+83-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:20:17-77
+83-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:20:25-74
+84                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
+84-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:21:17-77
+84-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:21:25-74
+85            </intent-filter>
+86        </receiver>
+87
+88        <service
+88-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:25:9-33:19
+89            android:name="com.dooboolab.TauEngine.FlautoBackgroundAudioService"
+89-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:26:13-80
+90            android:exported="true" >
+90-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:27:13-36
+91            <intent-filter>
+91-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:28:13-32:29
+92                <action android:name="android.intent.action.MEDIA_BUTTON" />
+92-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:20:17-77
+92-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:20:25-74
+93                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
+93-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:21:17-77
+93-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:21:25-74
+94                <action android:name="android.media.browse.FlautoMediaBrowserService" />
+94-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:31:17-89
+94-->[com.github.canardoux:flutter_sound_core:8.4.2] C:\Users\f8808\.gradle\caches\transforms-2\files-2.1\8fc3d8cb885bc278aeb30517c60bbd3b\jetified-flutter_sound_core-8.4.2\AndroidManifest.xml:31:25-86
+95            </intent-filter>
+96        </service>
+97    </application>
+98
+99</manifest>
