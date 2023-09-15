@@ -8,3 +8,7 @@ Bash scripts were created by my own.
 
 If you'd like to view the codes for the attacks (Blackhole, Flooding),
 just ctrl-f to search for "blackhole" or "flooding" in the corresponding files.
+
+# What is resultGetter folder for?
+
+They are the scripts that I used to parse and draw charts of the result from Network Simulator 3.
