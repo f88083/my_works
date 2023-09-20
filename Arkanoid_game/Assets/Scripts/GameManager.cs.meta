@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: df06f3b0a09ec8b478356eab514c48ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ballPrefab: {instanceID: 0}
+  - playerPrefab: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - ballsText: {instanceID: 0}
+  - levelText: {instanceID: 0}
+  - panelMenu: {instanceID: 0}
+  - playPanel: {instanceID: 0}
+  - panelLevelCompleted: {instanceID: 0}
+  - panelGameOver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
