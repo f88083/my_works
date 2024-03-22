@@ -7,7 +7,7 @@ Bash scripts were created by my own.
 # How to find my codes?
 
 If you'd like to view the codes for the attacks (Blackhole, Flooding),
-just press ctrl-f to search for keywords "blackhole" or "flooding".
+just search for keywords "blackhole" or "flooding".
 
 # What is resultGetter folder for?
 
